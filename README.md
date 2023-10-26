@@ -104,20 +104,20 @@ Insights and Recommendations :
 
 Increasing trend :
 
-- there is a increasing trend in orders , trend sustains during 2018. There a slight fall we can observe during october 2017 following with a great hike in november month and again a fall in end of december 2017 and january 2018.
+- There is a increasing trend in orders , trend sustains during 2018. There a slight fall we can observe during october 2017 following with a great hike in november month and again a fall in end of december 2017 and january 2018.
 
-- we can observe the trend of increasing orders with time and also for revenue.
+- We can observe the trend of increasing orders with time and also for revenue.
 
-- we can observe there's 815% growth increased in terms of orders and 707% growth increment in terms of revenue in January from 2017 to 2018.
+- We can observe there's 815% growth increased in terms of orders and 707% growth increment in terms of revenue in January from 2017 to 2018.
 
-- growth rate for july and august in 2017 to 2018 is relatively very low!
+- Growth rate for july and august in 2017 to 2018 is relatively very low!
 
 - 2017-february, 2017-march,2017-november were the highest growing sale month compare to its previous month.
 
 In products Data , total 32951 different products available in Target with 73 different product_category.
 health and beauty, Watches present, bed table bath, sport leisure, computer accessories, Furniture Decoration, housewares, Automotive are some of the top selling product categories.
 
-health and beauty products are top selling having highest orders.
+Health and beauty products are top selling having highest orders.
 
 PCs and Musical Instruments category have relatively less number of products , but contributes in a high revenue.
 
